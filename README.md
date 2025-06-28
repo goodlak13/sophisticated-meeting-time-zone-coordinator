@@ -35,7 +35,7 @@ A sophisticated, AI-powered meeting scheduler that helps coordinate meetings acr
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-netlify-url.netlify.app)
+[[View Live Demo](https://your-netlify-url.netlify.app)](https://subtle-dolphin-a94bc9.netlify.app/)
 
 ## 🛠️ Technology Stack
 
@@ -59,7 +59,7 @@ A sophisticated, AI-powered meeting scheduler that helps coordinate meetings acr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/timesync-pro.git
+   git clone [https://github.com/yourusername/timesync-pro.git](https://github.com/goodlak13/sophisticated-meeting-time-zone-coordinator/tree/main)
    cd timesync-pro
 Install dependencies
 
